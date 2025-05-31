@@ -36,8 +36,7 @@ pip install -r requirements.txt
 * **Precision-Recall curves**, **mAP** scores included in notebooks.
 
 ## 📁 Dataset
-
-> Dataset not included due to size. Please link your dataset path in the respective notebooks before running.
+* Kaggle Dataset (https://www.kaggle.com/datasets/karanwxlia/underwater-trash-detection)
 
 ## 📈 Evaluation Metrics
 
