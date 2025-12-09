@@ -36,7 +36,7 @@ pip install -r requirements.txt
 * **Precision-Recall curves**, **mAP** scores included in notebooks.
 
 ## 📁 Dataset
-* Kaggle Dataset (https://www.kaggle.com/datasets/karanwxlia/underwater-trash-detection)
+* [Kaggle Dataset](https://www.kaggle.com/datasets/karanwxlia/underwater-trash-detection)
 
 ## 📈 Evaluation Metrics
 
